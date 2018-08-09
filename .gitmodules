@@ -1,3 +1,6 @@
 [submodule "src/golang.org/x/tools"]
 	path = src/golang.org/x/tools
 	url = git@github.com:golang/tools.git
+[submodule "src/golang.org/x/lint"]
+	path = src/golang.org/x/lint
+	url = git@github.com:golang/lint.git
